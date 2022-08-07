@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-06T16:26:28 IST" name="Default suite" finished-at="2022-08-06T16:26:30 IST" duration-ms="2003">
+    <groups>
+    </groups>
+    <test started-at="2022-08-06T16:26:28 IST" name="Default test" finished-at="2022-08-06T16:26:30 IST" duration-ms="2003">
+      <class name="com.bridgelabz.qa.DB.DB_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.bridgelabz.qa.DB.DB_Test@7ce3cb8e]" started-at="2022-08-06T16:26:28 IST" name="setUp" finished-at="2022-08-06T16:26:29 IST" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getTableData()[pri:1, instance:com.bridgelabz.qa.DB.DB_Test@7ce3cb8e]" started-at="2022-08-06T16:26:29 IST" name="getTableData" finished-at="2022-08-06T16:26:29 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTableData -->
+        <test-method signature="insertData()[pri:2, instance:com.bridgelabz.qa.DB.DB_Test@7ce3cb8e]" started-at="2022-08-06T16:26:29 IST" name="insertData" finished-at="2022-08-06T16:26:30 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insertData -->
+        <test-method signature="updateData()[pri:3, instance:com.bridgelabz.qa.DB.DB_Test@7ce3cb8e]" started-at="2022-08-06T16:26:30 IST" name="updateData" finished-at="2022-08-06T16:26:30 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateData -->
+        <test-method signature="deleteData()[pri:4, instance:com.bridgelabz.qa.DB.DB_Test@7ce3cb8e]" started-at="2022-08-06T16:26:30 IST" name="deleteData" finished-at="2022-08-06T16:26:30 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bridgelabz.qa.DB.DB_Test@7ce3cb8e]" started-at="2022-08-06T16:26:30 IST" name="tearDown" finished-at="2022-08-06T16:26:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bridgelabz.qa.DB.DB_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
